@@ -1,3 +1,3 @@
 # port scanner
 
-This repository contains my first bignner portfolio.I am learninig Github and Cybersecurity
+This is repository contains my firstbegnner portfolio.I am learning github and cybersecurity
