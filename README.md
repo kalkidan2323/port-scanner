@@ -1,2 +1,13 @@
-# port-scanner
-simple python  scanner
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kalkidan Portfolio</title>
+</head>
+<body>
+  <h1>Welcome To My Portfolio</h1> 
+  <p>This is my first project on github<P>
+  <p>I am Kalkidan Mersha, A Cybersecurity student.</p> 
+</body>
+</html>
